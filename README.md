@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1425054255.svg)](https://doi.org/10.5281/zenodo.23464526)
+
 # Modular Milestone Protocol (MMP)
 
 **Author:** David Gee - Information Architect  
